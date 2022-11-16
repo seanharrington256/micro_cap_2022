@@ -1,0 +1,37 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+1459	0.25387900725455803	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				40.874520167983846
+1243629	0.018293326751713083	Arthrobacter sp. F20	Arthrobacter	Micrococcaceae	Micrococcales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				2.9452256070258063
+68284	0.03024774886431687	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				4.869887567155016
+86189	0.10126582278481013	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	16.30379746835443
+293027	0.03373169369951377	Streptomycetaceae bacterium N-39-25-5		Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				5.4308026856217175
+1632536	0.006329113924050633	bacterium YC-ZSS-LKJ141							Bacteria				1.0189873417721518
+1652101	0.01265583928383464	Polygonibacillus indicireducens	Polygonibacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				2.037590124697377
+83428	0.006331502488317259	uncultured Bacillus sp.	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				1.0193719006190787
+1405	0.0077064994078930695	Bacillus mycoides	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group	1.2407464046707841
+34034	0.03873054775056328	uncultured delta proteobacterium				Deltaproteobacteria	Proteobacteria		Bacteria				6.235618187840688
+152508	0.02896058411685496	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				4.6626540428136485
+344338	0.09537138864198644	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				15.354793571359817
+1260629	0.018987341772151913	Proteinivorax tanatarense	Proteinivorax	Proteinivoraceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				3.056962025316458
+374446	0.006725964067791307	uncultured Halanaerobiaceae bacterium		Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0828802149144006
+1434881	0.03164556962025317	Orenia chitinitropha	Orenia	Halobacteroidaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				5.09493670886076
+622674	0.012658227848101266	Desulfitispora alkaliphila	Desulfitispora	Peptococcaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				2.0379746835443036
+723920	0.006329113924050633	Natroniella sp. AHT18	Natroniella	Halobacteroidaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0189873417721518
+114243	0.03194984321748161	uncultured euryarchaeote					Euryarchaeota		Archaea				5.143924758014538
+90326	0.0063406810236378485	uncultured archeon 'KTK 4A'							Archaea				1.0208496448056936
+273375	0.04413114442512907	uncultured Alkaliphilus sp.	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				7.10511425244578
+1482731	0.008591238899820552	Alkaliphilus serpentinus	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.383189462871109
+1482730	0.012658152342359811	Alkaliphilus hydrothermalis	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				2.0379625271199298
+1482732	0.01056883142129816	Alkaliphilus pronyensis	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.7015818588290037
+75451	0.03164556962025221	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				5.0949367088606055
+160804	0.01867902385085507	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				3.0073228399876664
+89959	0.02531645569620253	Natronincola histidinovorans	Natronincola	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				4.075949367088607
+1632556	0.0063291467955175415	bacterium YC-ZSS-LKJ160							Bacteria				1.0189926340783242
+215779	0.012650705072583389	uncultured candidate division MSBL1 archaeon					Euryarchaeota	candidate division MSBL1	Archaea				2.0367635166859257
+309164	0.006329113924050633	uncultured Dunaliella sp.	Dunaliella	Dunaliellaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	core chlorophytes	Eukaryota				1.0189873417721518
+1211	0.030268995025646762	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				4.873308199129129
+215776	0.01898802348585816	uncultured Halanaerobiales bacterium			Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				3.0570717812231636
+1321266	0.006329113924050633	uncultured Anaerobacillus sp.	Anaerobacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				1.0189873417721518
+1914963	0.006329113924050633	Roseivirga seohaensis	Roseivirga	Roseivirgaceae	Cytophagales	Cytophagia	Bacteroidetes	FCB group	Bacteria				1.0189873417721518
+59620	0.006716441226394352	uncultured Clostridium sp.	Clostridium	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0813470374494907
+265486	0.006329113924050633	Oxobacter sp. PPf50E4	Oxobacter	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0189873417721518
+unassigned	0.0												14104.0

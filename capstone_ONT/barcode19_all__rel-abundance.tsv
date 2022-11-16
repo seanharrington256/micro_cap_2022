@@ -1,0 +1,20 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+86473	0.3582402234625336	uncultured Gammaproteobacteria bacterium				Gammaproteobacteria	Proteobacteria		Bacteria				530.1955307245497
+375929	0.010467188760462669	Natranaerobius thermophilus	Natranaerobius	Natranaerobiaceae	Natranaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				15.49143936548475
+1459	0.11807160352584281	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				174.74597321824737
+321763	0.0968945592258875	Halarsenatibacter silvermanii	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				143.4039476543135
+1222000	0.015341887294461015	uncultured Halarsenatibacter sp.	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				22.705993195802304
+86189	0.042397362416482884	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	62.74809637639467
+1243630	0.011091206784471539	Arthrobacter sp. G20	Arthrobacter	Micrococcaceae	Micrococcales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				16.41498604101788
+344338	0.12315273655417984	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				182.26605010018616
+152508	0.04534474548344475	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				67.11022331549823
+100272	0.02914411944241895	uncultured eukaryote							Eukaryota				43.13329677478004
+1211	0.014653129693771437	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				21.686631946781727
+137771	0.015941232035686648	uncultured diatom					Bacillariophyta	Sar	Eukaryota				23.593023412816237
+68284	0.01768563733022223	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				26.1747432487289
+75449	0.021410437225210723	uncultured haloarchaeon MSP1					Euryarchaeota		Archaea				31.68744709331187
+160804	0.03489239649530762	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				51.64074681305528
+1632536	0.0111731843575419	bacterium YC-ZSS-LKJ141							Bacteria				16.536312849162012
+75451	0.01841783667054311	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				27.258398272403802
+153809	0.01568051324153079	uncultured proteobacterium					Proteobacteria		Bacteria				23.207159597465566
+unassigned	0.0												51552.0

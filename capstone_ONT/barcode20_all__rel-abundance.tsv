@@ -1,0 +1,34 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+1396	0.004545454545454545	Bacillus cereus	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group	1.0045454545454544
+321763	0.040600888100260156	Halarsenatibacter silvermanii	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				8.972796270157495
+75457	0.0071164732829469375	uncultured haloarchaeon MSP22					Euryarchaeota		Archaea				1.5727405955312732
+75458	0.018207818737126038	uncultured haloarchaeon MSP23					Euryarchaeota		Archaea				4.023927940904854
+1459	0.2828042663204031	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				62.49974285680909
+1243629	0.0068253852469537584	Arthrobacter sp. F20	Arthrobacter	Micrococcaceae	Micrococcales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				1.5084101395767806
+1405	0.010113489594664519	Bacillus mycoides	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group	2.2350812004208587
+68284	0.041165949747069656	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				9.097674894102393
+344338	0.11649169138795294	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				25.7446637967376
+152508	0.020180147784514164	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				4.45981266037763
+75449	0.02999260900441386	uncultured haloarchaeon MSP1					Euryarchaeota		Archaea				6.628366589975464
+75455	0.0194226256591924	uncultured haloarchaeon MSP16					Euryarchaeota		Archaea				4.2924002706815205
+160804	0.08436611801435577	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				18.644912081172624
+1364940	0.009092379605105755	Halobium salinum	Halobium	Halorubraceae	Haloferacales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				2.009415892728372
+86189	0.13636363636363635	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	30.136363636363633
+332953	0.004937005619042236	Halovivax asiaticus	Halovivax	Natrialbaceae	Natrialbales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0910782418083342
+413810	0.004607883183848848	Halalkalicoccus jeotgali	Halalkalicoccus	Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0183421836305953
+75451	0.03831444692832022	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				8.467492771158769
+153093	0.009089522539111472	uncultured archaeon AM-14							Archaea				2.008784481143635
+75454	0.02942793604552215	uncultured haloarchaeon MSP14					Euryarchaeota		Archaea				6.503573866060395
+114243	0.0181733928886731	uncultured euryarchaeote					Euryarchaeota		Archaea				4.016319828396755
+1632536	0.004545454545454545	bacterium YC-ZSS-LKJ141							Bacteria				1.0045454545454544
+1211	0.013636363636363636	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				3.0136363636363637
+172788	0.004545454545454545	uncultured phototrophic eukaryote							Eukaryota				1.0045454545454544
+153809	0.004545454545454545	uncultured proteobacterium					Proteobacteria		Bacteria				1.0045454545454544
+86473	0.004545454545454545	uncultured Gammaproteobacteria bacterium				Gammaproteobacteria	Proteobacteria		Bacteria				1.0045454545454544
+381852	0.0045454615663619614	Haloferax prahovense	Haloferax	Haloferacaceae	Haloferacales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0045470061659936
+69525	0.004545526350927545	Natrinema pellirubrum	Natrinema	Natrialbaceae	Natrialbales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0045613235549875
+106592	0.004545454545454545	Ensifer adhaerens	Ensifer	Rhizobiaceae	Hyphomicrobiales	Alphaproteobacteria	Proteobacteria		Bacteria				1.0045454545454544
+1679083	0.013615346029597132	Natrarchaeobius chitinivorans	Natrarchaeobius	Natrialbaceae	Natrialbales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				3.0089914725409663
+309164	0.004545454545454545	uncultured Dunaliella sp.	Dunaliella	Dunaliellaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	core chlorophytes	Eukaryota				1.0045454545454544
+75450	0.004545454545454545	uncultured haloarchaeon MSP8					Euryarchaeota		Archaea				1.0045454545454544
+unassigned	0.0												18466.0

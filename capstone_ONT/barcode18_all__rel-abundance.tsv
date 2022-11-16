@@ -1,0 +1,34 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+86473	0.28195922160447484	uncultured Gammaproteobacteria bacterium				Gammaproteobacteria	Proteobacteria		Bacteria				1517.2225714536792
+344338	0.18125773363665368	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				975.3478646988334
+1222000	0.01809154507388783	uncultured Halarsenatibacter sp.	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				97.35060404259042
+321763	0.03721871754272723	Halarsenatibacter silvermanii	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				200.27391909741522
+152508	0.15493817763242193	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				833.7223338400624
+153809	0.013073353372205148	uncultured proteobacterium					Proteobacteria		Bacteria				70.3477144958359
+1455636	0.006222089046396724	uncultured haloalkaliphilic bacterium							Bacteria				33.48106115866077
+1652101	0.0028823995019761173	Polygonibacillus indicireducens	Polygonibacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				15.510191720133488
+68284	0.02005824361813653	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				107.93340890919268
+1459	0.09155822152004006	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				492.6747899993356
+375929	0.0021137586537894448	Natranaerobius thermophilus	Natranaerobius	Natranaerobiaceae	Natranaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				11.374135316041002
+172788	0.006781613810370756	uncultured phototrophic eukaryote							Eukaryota				36.49186391360504
+100272	0.022343321839055335	uncultured eukaryote							Eukaryota				120.22941481595676
+1211	0.009770619263809134	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				52.57570225855695
+137771	0.01324400515816541	uncultured diatom					Bacillariophyta	Sar	Eukaryota				71.26599175608807
+75451	0.007999968264370138	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				43.047829230575715
+75449	0.0061521726351848015	uncultured haloarchaeon MSP1					Euryarchaeota		Archaea				33.10484094992942
+160804	0.026233454414774145	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				141.16221820589968
+549628	0.0024957628691226184	Halanaerobiaceae enrichment culture clone SLAb1-1		Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				13.42969999874881
+83428	0.00386018658976479	uncultured Bacillus sp.	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				20.771664039524335
+1632536	0.022357163942544618	bacterium YC-ZSS-LKJ141							Bacteria				120.3038991748326
+1418	0.0022889281277494187	Caldalkalibacillus mannanilyticus	Caldalkalibacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				12.316722255419622
+1405	0.003539977500584652	Bacillus mycoides	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group	19.04861893064601
+86189	0.03093774018841672	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	166.47597995387036
+75454	0.00566573786145105	uncultured haloarchaeon MSP14					Euryarchaeota		Archaea				30.4873354324681
+155098	0.005572664623675291	uncultured compost bacterium							Bacteria				29.98650833999674
+114243	0.004410890332705385	uncultured euryarchaeote					Euryarchaeota		Archaea				23.735000880287675
+1321266	0.0021137586471944654	uncultured Anaerobacillus sp.	Anaerobacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				11.374135280553418
+198431	0.0038199268942428555	uncultured prokaryote											20.555026617920806
+1396	0.0030218817384675568	Bacillus cereus	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group	16.260745634693922
+215779	0.004749057287192384	uncultured candidate division MSBL1 archaeon					Euryarchaeota	candidate division MSBL1	Archaea				25.554677262382217
+172733	0.0032677068084488578	uncultured Eubacteriales bacterium			Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				17.583530336263305
+unassigned	0.0												178510.0

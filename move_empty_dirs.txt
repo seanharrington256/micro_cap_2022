@@ -1,0 +1,5 @@
+## just the line of code to move out the barcodes without data:
+
+cd /home/sharrin2/inbreh/erins_nanopore/capstone_ont/SoilLib/20221108_1533_MN34633_FAO61894_853a1875/GuppyOutFastqs
+mkdir ../guppy_out_empty
+mv `du -s * | awk  '{if($1<20000)print$2}' ` ../guppy_out_empty   # move any directories with less than 20,000 bytes into a different directory

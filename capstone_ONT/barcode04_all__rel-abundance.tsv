@@ -1,0 +1,29 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+86189	0.0954811731193853	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	22.629038029294314
+1243630	0.00787637456351387	Arthrobacter sp. G20	Arthrobacter	Micrococcaceae	Micrococcales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				1.866700771552787
+1459	0.1478570414472231	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				35.042118822991874
+68284	0.027759992958952873	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				6.579118331271831
+56810	0.004923722995670613	Psychrobacter glacincola	Psychrobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Proteobacteria		Bacteria				1.1669223499739352
+75458	0.0102121125423826	uncultured haloarchaeon MSP23					Euryarchaeota		Archaea				2.420270672544676
+75451	0.02367886461014395	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				5.6118909126041165
+75449	0.033891821638854944	uncultured haloarchaeon MSP1					Euryarchaeota		Archaea				8.032361728408622
+160804	0.02543974230597736	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				6.029218926516634
+86473	0.39823102309761155	uncultured Gammaproteobacteria bacterium				Gammaproteobacteria	Proteobacteria		Bacteria				94.38075247413394
+148448	0.004237296072834546	Halobiforma haloterrestris	Halobiforma	Natrialbaceae	Natrialbales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0042391692617876
+344338	0.06350232319865542	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				15.050050598081336
+152508	0.004292580325379965	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				1.0173415371150516
+168379	0.004296142314591673	Halorhodospira neutriphila	Halorhodospira	Ectothiorhodospiraceae	Chromatiales	Gammaproteobacteria	Proteobacteria		Bacteria				1.0181857285582265
+1482731	0.00423728813559322	Alkaliphilus serpentinus	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0042372881355932
+1211	0.008474576272020137	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				2.0084745764687724
+137771	0.008474576261994939	uncultured diatom					Bacillariophyta	Sar	Eukaryota				2.0084745740928005
+100272	0.004237288143951025	uncultured eukaryote							Eukaryota				1.004237290116393
+645025	0.025436726231162183	uncultured Halorhodospira sp.	Halorhodospira	Ectothiorhodospiraceae	Chromatiales	Gammaproteobacteria	Proteobacteria		Bacteria				6.028504116785437
+1822367	0.00847457627118644	Candidatus Moeniiplasma glomeromycotorum	Candidatus Moeniiplasma	Mycoplasmataceae	Mycoplasmatales	Mollicutes	Tenericutes	Terrabacteria group	Bacteria				2.0084745762711864
+75454	0.012711864406780212	uncultured haloarchaeon MSP14					Euryarchaeota		Archaea				3.01271186440691
+321763	0.0423728813559322	Halarsenatibacter silvermanii	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				10.042372881355933
+1379109	0.00423728813559322	Natrinema sp. A3BC2sc	Natrinema	Natrialbaceae	Natrialbales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				1.0042372881355932
+13136	0.00423728813559322	unidentified marine bacterioplankton							Bacteria				1.0042372881355932
+153809	0.012711864406779662	uncultured proteobacterium					Proteobacteria		Bacteria				3.01271186440678
+549628	0.008476282916642576	Halanaerobiaceae enrichment culture clone SLAb1-1		Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				2.0088790512442904
+1260629	0.00423728813559322	Proteinivorax tanatarense	Proteinivorax	Proteinivoraceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				1.0042372881355932
+unassigned	0.0												7389.0

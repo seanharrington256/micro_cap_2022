@@ -1,0 +1,23 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+172788	0.02426417773312543	uncultured phototrophic eukaryote							Eukaryota				30.063316211342407
+1211	0.036531604024144765	uncultured cyanobacterium					Cyanobacteria	Terrabacteria group	Bacteria				45.26265738591536
+100272	0.04061903106298384	uncultured eukaryote							Eukaryota				50.32697948703698
+86189	0.11456167854976289	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	141.94191972315622
+1243630	0.009064306088722536	Arthrobacter sp. G20	Arthrobacter	Micrococcaceae	Micrococcales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				11.230675243927221
+75455	0.02931133354789075	uncultured haloarchaeon MSP16					Euryarchaeota		Archaea				36.31674226583664
+75449	0.046363853661293024	uncultured haloarchaeon MSP1					Euryarchaeota		Archaea				57.444814686342056
+75454	0.034510831836093346	uncultured haloarchaeon MSP14					Euryarchaeota		Archaea				42.758920644919655
+75451	0.03912249840830706	uncultured haloarchaeon MSP9					Euryarchaeota		Archaea				48.472775527892445
+75458	0.023307212700863545	uncultured haloarchaeon MSP23					Euryarchaeota		Archaea				28.87763653636993
+160804	0.030661423675625778	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				37.98950393410034
+68284	0.011321141129940223	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				14.026893859995937
+1459	0.13012853836613492	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				161.22925903564115
+86473	0.23204167440376997	uncultured Gammaproteobacteria bacterium				Gammaproteobacteria	Proteobacteria		Bacteria				287.499634586271
+321763	0.06073627015552654	Halarsenatibacter silvermanii	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				75.25223872269738
+137771	0.025088083850596105	uncultured diatom					Bacillariophyta	Sar	Eukaryota				31.084135890888575
+153809	0.028774801854210687	uncultured proteobacterium					Proteobacteria		Bacteria				35.651979497367044
+152508	0.010756040242219468	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				13.326733860109922
+344338	0.05087055880056603	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				63.02862235390131
+645025	0.00846626712526687	uncultured Halorhodospira sp.	Halorhodospira	Ectothiorhodospiraceae	Chromatiales	Gammaproteobacteria	Proteobacteria		Bacteria				10.48970496820565
+1822367	0.013498672782956201	Candidatus Moeniiplasma glomeromycotorum	Candidatus Moeniiplasma	Mycoplasmataceae	Mycoplasmatales	Mollicutes	Tenericutes	Terrabacteria group	Bacteria				16.724855578082735
+unassigned	0.0												29656.0

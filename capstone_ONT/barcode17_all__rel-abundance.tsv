@@ -1,0 +1,21 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group	estimated counts
+1632536	0.1743112032438488	bacterium YC-ZSS-LKJ141							Bacteria				221.375228119688
+344338	0.290062264523022	uncultured Firmicutes bacterium					Firmicutes	Terrabacteria group	Bacteria				368.3790759442379
+152508	0.16323214597585547	uncultured low G+C Gram-positive bacterium					Firmicutes	Terrabacteria group	Bacteria				207.30482538933646
+1459	0.10199574997966786	Sporosarcina globispora	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				129.53460247417817
+68284	0.024184507531071268	Streptomyces werraensis	Streptomyces	Streptomycetaceae	Streptomycetales	Actinomycetia	Actinobacteria	Terrabacteria group	Bacteria				30.71432456446051
+1260629	0.023175767004098125	Proteinivorax tanatarense	Proteinivorax	Proteinivoraceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				29.43322409520462
+172733	0.01705809574105141	uncultured Eubacteriales bacterium			Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				21.66378159113529
+198431	0.02245520449384194	uncultured prokaryote											28.518109707179264
+1454184	0.013443432035201451	Alkaliphilus namsaraevii	Alkaliphilus	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				17.07315868470584
+1632604	0.013166010465128254	bacterium YC-ZSS-LKJ25							Bacteria				16.720833290712882
+83428	0.014631268883673408	uncultured Bacillus sp.	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				18.581711482265227
+427921	0.016314001577383497	Bacillus sp. ANL-isoa2	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria				20.718782003277042
+1222000	0.017392616673443686	uncultured Halarsenatibacter sp.	Halarsenatibacter	Halanaerobiaceae	Halanaerobiales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				22.08862317527348
+86189	0.04206008583690039	[Pseudomonas] hibiscicola	Stenotrophomonas	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria		Bacteria			Stenotrophomonas maltophilia group	53.4163090128635
+160804	0.014592274678111588	uncultured haloarchaeon		Halobacteriaceae	Halobacteriales	Halobacteria	Euryarchaeota	Stenosarchaea group	Archaea				18.532188841201716
+89959	0.013733905579399141	Natronincola histidinovorans	Natronincola	Clostridiaceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				17.44206008583691
+1455636	0.010043157223127397	uncultured haloalkaliphilic bacterium							Bacteria				12.754809673371794
+244328	0.018053491357673496	uncultured Clostridia bacterium				Clostridia	Firmicutes	Terrabacteria group	Bacteria				22.92793402424534
+2731377	0.010094817197500725	Alkalicella caledoniensis	Alkalicella	Proteinivoraceae	Eubacteriales	Clostridia	Firmicutes	Terrabacteria group	Bacteria				12.82041784082592
+unassigned	0.0												44733.0
