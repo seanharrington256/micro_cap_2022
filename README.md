@@ -19,5 +19,5 @@ R scripts can be run anywhere, I've been running them locally.
 
 - make\_OTU_table.R  combines all of the data across samples to make a single OTU table and spit it out as a .csv file. It also spits out a file that maps numeric taxon IDs to taxonomic names.
 
-- OTU_diversity.R will take the output OTU table from the previous R script and start to actually analyze it. 
+- OTU_diversity.R will take the output OTU table from the previous R script and start to actually analyze it
 

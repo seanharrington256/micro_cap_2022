@@ -29,8 +29,31 @@ all_counts <- do.call(rbind, counts)
 # make that wider - we want columns to be the taxon IDs, rows to be samples, and the values in each cell to be the counts
 otu_table <- pivot_wider(all_counts, names_from = tax_id, values_from = estimated.counts)
 
+# We need to replace NA with zero, since these are counts
+otu_table[is.na(otu_table)] <- 0
+
+
+# new vector to put pre/post info into
+prepost <- otu_table$barcode
+#make the subsitutions
+prepost <- gsub("barcode09|barcode17|barcode18", "pre", prepost)
+prepost <- gsub("barcode04|barcode11|barcode12|barcode13|barcode19|barcode20", "post", prepost)
+
+# site 
+site <- otu_table$barcode
+site <- gsub("barcode04", "site_1", site)
+site <- gsub("barcode09|barcode11|barcode12|barcode13", "site_2", site)
+site <- gsub("barcode17|barcode18|barcode19|barcode20", "site_3", site)
+
+# combine these into the OTU table
+otu_table_w_info <- cbind(prepost, site, otu_table)
+
+
+
 # We can write this to a .csv file so that we don't have to remake it each time we want to analyze it
-write.csv(otu_table, file = "soil_otu_table.csv")
+write.csv(otu_table_w_info, file = "soil_otu_table.csv")
+
+
 
 
 # get out the mappings of taxon IDs to taxonomic names
