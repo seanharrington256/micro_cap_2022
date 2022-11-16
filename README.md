@@ -3,11 +3,17 @@
 
 This repo contains the code for analyzing the Nanopore data for the 2022 microbiology capstone class at UW. Most of this is not particularly optimized code that was done on the fly.
 
+<br>
+
+![](2076672645_425574c143_k.jpg)
+
+<br>
+
 slurm scripts are to be deployed on Teton. Change my email and the Teton account if you use them.
 
 R scripts can be run anywhere, I've been running them locally.
 
-
+<br>
 
 - soil_basecall.slurm basecalls the raw fast5 files
 
@@ -21,3 +27,8 @@ R scripts can be run anywhere, I've been running them locally.
 
 - OTU_diversity.R will take the output OTU table from the previous R script and start to actually analyze it
 
+<br>
+<br>
+<br>
+
+* image source: https://www.flickr.com/photos/matthigh/2076672645
