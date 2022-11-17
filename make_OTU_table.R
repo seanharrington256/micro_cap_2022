@@ -5,7 +5,7 @@ library(tidyverse)
 ############################################################################################################################################################
 ## YOUR WORKING DIRECTORY WILL BE DIFFERENT FROM MINE!!!!! - this should be the path to where the rel-abundance.tsv files are
 ############################################################################################################################################################
-setwd("~/UWyo/Bentley_Erin_capstone_class/micro_cap_2022/capstone_ONT")
+setwd("~/UWyo/micro_cap_2022/capstone_ONT")
 
 # list out all of the files that include rel-abundance
 infiles <- list.files(pattern = "rel-abundance")
@@ -41,9 +41,11 @@ prepost <- gsub("barcode04|barcode11|barcode12|barcode13|barcode19|barcode20", "
 
 # site 
 site <- otu_table$barcode
-site <- gsub("barcode04", "site_1", site)
-site <- gsub("barcode09|barcode11|barcode12|barcode13", "site_2", site)
-site <- gsub("barcode17|barcode18|barcode19|barcode20", "site_3", site)
+site <- gsub("barcode17|barcode09", "site_pre", site)
+site <- gsub("barcode18", "site_npre", site)
+site <- gsub("barcode19|barcode11", "site_3", site)
+site <- gsub("barcode20|barcode12|barcode04", "site_c", site)
+site <- gsub("barcode13", "site_4", site)
 
 # combine these into the OTU table
 otu_table_w_info <- cbind(prepost, site, otu_table)

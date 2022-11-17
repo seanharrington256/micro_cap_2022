@@ -7,7 +7,7 @@ library(vegan)
 ############################################################################################################################################################
 ## YOUR WORKING DIRECTORY WILL BE DIFFERENT FROM MINE!!!!! - this should be the path to where the rel-abundance.tsv files are
 ############################################################################################################################################################
-setwd("~/UWyo/Bentley_Erin_capstone_class/micro_cap_2022/capstone_ONT")
+setwd("~/UWyo/micro_cap_2022/capstone_ONT")
 
 # read in the data that we wrote out previously
 taxon_info <- read.csv("taxon_info.csv", row.names = 1)
@@ -21,9 +21,12 @@ pcoa <- cmdscale(d = dists, k = 4) # run a PCoA
 
 # assign colors for sites:
 colors <- otu_table$site
-colors <- gsub("site_1", "blue", colors)
-colors <- gsub("site_2", "red", colors)
+colors <- gsub("site_pre", "blue", colors)
+colors <- gsub("site_npre", "red", colors)
 colors <- gsub("site_3", "yellow", colors)
+colors <- gsub("site_c", "green", colors)
+colors <- gsub("site_4", "orange", colors)
+
 
 # pdf(width = 7, height = 7, file = "pcoa_by_taxa_loc.pdf")
 plot(type = "n", pcoa[,1], pcoa[,2],
@@ -75,8 +78,6 @@ points(pcoa[,1], pcoa[,2],
 
 # alpha diversity of site & time
 alpha_barcodes <- vegan::diversity(otu_table[,4:ncol(otu_table)], groups = as.factor(otu_table$barcode))
-alpha_sites <- vegan::diversity(otu_table[,4:ncol(otu_table)], groups = as.factor(otu_table$site))
-alpha_prepost <- vegan::diversity(otu_table[,4:ncol(otu_table)], groups = as.factor(otu_table$prepost))
 
 
 
